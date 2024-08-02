@@ -1,7 +1,7 @@
 # Hi there 👋
 
-This is [Pradeep Gowda](https://www.btbytes.com/). This is my "developer portfolio". You can get in touch with me:
-✉️ pradeep🌀btbytes.com, [Twitter/X](https://x.com/btbytes) or [LinkedIn](https://linkedin.com/in/btbytes).
+This is [Pradeep Gowda](https://www.btbytes.com/). This is the perfect place
+to talk about programming and stuff ;)
 
 - I like programming in -- Python, Nim, Scala.
 - I have programmed professionally in -- Java, Javascript, Bash.
@@ -15,6 +15,11 @@ These are some of the links related to programming:
 1. [Current projects](https://github.com/btbytes)
 1. [My Code in Books](https://www.btbytes.com/posts/2020-05-07-02-code-in-books.html)
 1. [Old projects](https://v1.pradeepgowda.com/projects/) - likely all of them of archive-worthy
+
+## Contact
+
+You can get in touch with me: ✉️ pradeep🌀btbytes.com, [Twitter/X](https://x.com/btbytes) or [LinkedIn](https://linkedin.com/in/btbytes).
+
 
 ## Education
 
