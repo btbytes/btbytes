@@ -32,7 +32,7 @@ I have worked in the recent past for Microsoft and Proofpoint.
 
 ## Location
 
-My home town is Bengalur, India. I live in Carmel, IN - a suburb of Indianapolis, IN in USA.
+My home town is Bengaluru, India. I live in Carmel, IN - a suburb of Indianapolis, IN in USA.
 
 
 ## Learning
