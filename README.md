@@ -11,7 +11,7 @@ This is the perfect place to talk about programming and stuff ;)
 - Languages I wish I could be programming: Common Lisp, APL, and FORTH
 - My most recent professional experience is in leading and writing code on development teams in the cybersecurity engineering domain while solving for large scale data gathering, processing and producing data products.
 
-These are some of the links related to programming:
+These are some of my links related to programming:
 
 1. [List of talks I have given](https://www.btbytes.com/talks.html)
 1. [Current projects](https://github.com/btbytes)
