@@ -1,7 +1,8 @@
 # Hi there 👋
 
-This is [Pradeep Gowda](https://www.btbytes.com/). This is the perfect place
-to talk about programming and stuff ;)
+This is **Pradeep Gowda**.
+
+This is the perfect place to talk about programming and stuff ;)
 
 - I like programming in: Python, Nim, and Scala.
 - I have programmed professionally in: Java, Javascript, Bash.
