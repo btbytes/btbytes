@@ -6,7 +6,7 @@ to talk about programming and stuff ;)
 - I like programming in: Python, Nim, and Scala.
 - I have programmed professionally in: Java, Javascript, Bash.
 - I have done non-trivial amounts of programming in: Erlang, Rust, D, C, C++, Lua.
-- I want to get get good in: OCaml (or F#), Nix, and Go.
+- I want to get good in: OCaml (or F#), Nix, and Go.
 - Languages I wish I could be programming: Common Lisp, APL, and FORTH
 - My most recent professional experience is in leading and writing code on development teams in the cybersecurity engineering domain while solving for large scale data gathering, processing and producing data products.
 
@@ -28,7 +28,7 @@ and a Masters in Computer Science from [Purdue University](https://www.purdue.ed
 
 ## Work Experience
 
-I have worked in the recent past for are - Ollyver (startup I bootstrapped), Microsoft and Proofpoint.
+I have worked in the recent past for are: Ollyver (startup I bootstrapped), Microsoft and Proofpoint.
 
 ## Location
 
