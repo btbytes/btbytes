@@ -8,7 +8,7 @@ to talk about programming and stuff ;)
 - I have done non-trivial amounts of programming in: Erlang, Rust, D, C, C++, Lua.
 - I want to get get good in: OCaml (or F#), Nix, and Go.
 - Languages I wish I could be programming: Common Lisp, APL, and FORTH
-- My most recent professional experience is in leading and writing code on development teams in the Cyber security engineering domain while solving for large scale data gathering, processing and producing data products.
+- My most recent professional experience is in leading and writing code on development teams in the cybersecurity engineering domain while solving for large scale data gathering, processing and producing data products.
 
 These are some of the links related to programming:
 
