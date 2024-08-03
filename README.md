@@ -24,7 +24,7 @@ You can get in touch with me: ✉️ pradeep🌀btbytes.com, [Twitter/X](https:/
 
 ## Education
 
-I have a Masters in Computer Science from [Purdue University](https://www.purdue.edu) and Bachelors in Mechanical Engineering from [PES Instititute of Technolgy](https://pes.edu).
+I have a Masters in Computer Science from [Purdue University](https://www.purdue.edu) and Bachelors in Mechanical Engineering from [PESIT](https://pes.edu).
 
 ## Work Experience
 
