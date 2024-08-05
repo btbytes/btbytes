@@ -18,6 +18,12 @@ These are some of my links related to programming:
 1. [My Code in Books](https://www.btbytes.com/posts/2020-05-07-02-code-in-books.html)
 1. [Old projects](https://v1.pradeepgowda.com/projects/) - likely all of them of archive-worthy
 
+## Recent Projects
+
+- Aug 2024. [Tohray](https://github.com/btbytes/tohray), A microblogging application in Nim
+- Apr 2024. [Pandaku](https://github.com/btbytes/pandaku), a [fly.io](https://fly.io) deployment of [pandoc](https://pandoc.org) API. Has Docker, Fly configs, and example code on how to use the API.
+
+
 ## Contact
 
 You can get in touch with me: ✉️ pradeep🌀btbytes.com, [Twitter/X](https://x.com/btbytes) or [LinkedIn](https://linkedin.com/in/btbytes).
