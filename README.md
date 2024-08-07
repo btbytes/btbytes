@@ -34,11 +34,11 @@ I have a Masters in Computer Science from [Purdue University](https://www.purdue
 
 ## Work Experience
 
-I have worked in the recent past for are: Ollyver (startup I bootstrapped), Microsoft and Proofpoint.
+I have worked in the recent past for: Ollyver (startup I bootstrapped), Microsoft and Proofpoint.
 
 ## Location
 
-My home town is Bengaluru, India. I live in Carmel, IN - a suburb of Indianapolis, IN in USA.
+My home town is Bengaluru, India. I live in Carmel, IN - a suburb of Indianapolis, IN in the USA.
 
 ## Learning
 
