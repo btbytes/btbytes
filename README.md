@@ -26,9 +26,9 @@ These are some of my links related to programming:
 ## Recent Hacks
 
 - Aug 2024. I used Claude to write a MacOS Automator script to convert `.png/.jpg` etc to a smaller sized, web optimized `.webp`
-format. I'm really thrilled that I was able to do something from being annoyed at having to use command line all the time (and context switching)
-to something, I can do in the Finder. In this case, Claude was acting [as my tutor](https://www.btbytes.com/posts/use-of-llms-for-programming.html), and I learnt something new.
-You can [see my thread on X](https://x.com/btbytes/status/1821729486913626476) on how it all went down. And the resulting MacOS workflow [is here on github](https://github.com/btbytes/Convert-To-WebP-Workflow).
+format. I'm really thrilled that I was able to go from having to use command line, (and context switching)
+to something I can do in the Finder. In this case, Claude was acting [as my tutor](https://www.btbytes.com/posts/use-of-llms-for-programming.html), and I learnt something new.
+You can [see my thread on X](https://x.com/btbytes/status/1821729486913626476) on how it all went down; and the resulting MacOS workflow [is here on github](https://github.com/btbytes/Convert-To-WebP-Workflow).
 
 ## Contact
 
