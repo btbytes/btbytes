@@ -1,15 +1,15 @@
-# Hi there 👋
+# Hi there ✌️
 
 This is **Pradeep Gowda**.
 
 This is the perfect place to talk about programming and stuff ;)
 
-- I like programming in: Python, Nim, and Scala.
-- I have programmed professionally in: Java, Javascript, Bash.
-- I have done non-trivial amounts of programming in: Erlang, Rust, D, C, C++, Lua.
-- I want to get good in: OCaml (or F#), Nix, and Go.
+- I like programming in: Python, Nim, and Scala
+- I have programmed professionally in: Java, Javascript, Bash
+- I have done non-trivial amounts of programming in: Erlang, Rust, D, C, C++, Lua
+- I want to get good in: OCaml (or F#), Nix, and Go
 - Languages I wish I could be programming: Common Lisp, APL, and FORTH
-- My most recent professional experience is in leading and writing code on development teams in the cybersecurity engineering domain while solving for large scale data gathering, processing and producing data products.
+- My most recent professional experience is in leading and writing code on development teams in the cybersecurity engineering domain while solving for large scale data gathering, processing and producing data products
 
 These are some of my links related to programming:
 
@@ -21,11 +21,11 @@ These are some of my links related to programming:
 ## Recent Projects
 
 - Aug 2024. [Tohray](https://github.com/btbytes/tohray), A microblogging application in Nim
-- Apr 2024. [Pandaku](https://github.com/btbytes/pandaku), a [fly.io](https://fly.io) deployment of [pandoc](https://pandoc.org) API. Has Docker, Fly configs, and example code on how to use the API.
+- Apr 2024. [Pandaku](https://github.com/btbytes/pandaku), a [fly.io](https://fly.io) deployment of [pandoc](https://pandoc.org) API. Has Docker, Fly configs, and example code on how to use the API
 
 ## Recent Hacks
 
-- Aug 2024. I used Claude to write a MacOS Automator script to convert `.png/.jpg` etc to a smaller sized, web optimized `.webp`
+- Aug 2024. I used Claude 3.5 Sonnet to write a MacOS Automator script to convert `.png/.jpg` etc to a smaller sized, web optimized `.webp`
 format. I'm really thrilled that I was able to go from having to use command line, (and context switching)
 to something I can do in the Finder. In this case, Claude was acting [as my tutor](https://www.btbytes.com/posts/use-of-llms-for-programming.html), and I learnt something new.
 You can [see my thread on X](https://x.com/btbytes/status/1821729486913626476) on how it all went down; and the resulting MacOS workflow [is here on github](https://github.com/btbytes/Convert-To-WebP-Workflow).
@@ -64,4 +64,4 @@ My home town is Bengaluru, India. I live in Carmel, IN - a suburb of Indianapoli
   - Hypermedia systems
   - Typed programming languages
   - Simple Build - Deploy - Monitor - Scale methods
-  - Developing in the small, but not only for "small" problems.
+  - Developing in the small, but not only for "small" problems
