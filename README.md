@@ -20,7 +20,11 @@ These are some of my links related to programming:
 
 ## Recent Projects
 
-- Aug 2024. [Tohray](https://github.com/btbytes/tohray), A microblogging application in Nim
+- Aug 2024. [Simplestatapp](//github.com/btbytes/simplestatapp), a demonstrative example of how to build a *tiny* (my modern standards),
+a standalone web application that has database support etc for under 6MB, and can be deployed
+to a PaaS provider like Fly.io. This one helped me understand C compiler and linkers a bit better.
+- Aug 2024. [Tohray](https://github.com/btbytes/tohray), A microblogging application in Nim. This helped me
+learn Nim as a practical language, prologue web framework, multi-stage docker builds etc..
 - Apr 2024. [Pandaku](https://github.com/btbytes/pandaku), a [fly.io](https://fly.io) deployment of [pandoc](https://pandoc.org) API. Has Docker, Fly configs, and example code on how to use the API
 
 ## Recent Hacks
