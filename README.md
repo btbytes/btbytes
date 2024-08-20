@@ -55,17 +55,13 @@ My home town is Bengaluru, India. I live in Carmel, IN - a suburb of Indianapoli
 (Aug 2024)
 
 - I'm practicing "leetcode" programming
+- Learning generative AI and large language models
+- Reviewing and revising Distributed Computing, and stream processing concepts
 - How to use self-hosted/local Generative AI for local development
-
+- Enjoying nim programming
 
 ## Writing
 
 (Aug 2024)
 
 - I blog at <https://www.btbytes.com/>
-- I want to write an opinionated, "from the first principles" guide to development web development that focusses on
-
-  - Hypermedia systems
-  - Typed programming languages
-  - Simple Build - Deploy - Monitor - Scale methods
-  - Developing in the small, but not only for "small" problems
