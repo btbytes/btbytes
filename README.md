@@ -27,6 +27,11 @@ to a PaaS provider like Fly.io. This one helped me understand C compiler and lin
 learn Nim as a practical language, prologue web framework, multi-stage docker builds etc..
 - Apr 2024. [Pandaku](https://github.com/btbytes/pandaku), a [fly.io](https://fly.io) deployment of [pandoc](https://pandoc.org) API. Has Docker, Fly configs, and example code on how to use the API
 
+## Recent Learning
+
+- Sep 2024. [Ulimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/)
+- Sep 2024. I also learnt Next.js fundamentals while doing a take-home exercise for a job interview.
+
 ## Recent Hacks
 
 - Aug 2024. I used Claude 3.5 Sonnet to write a MacOS Automator script to convert `.png/.jpg` etc to a smaller sized, web optimized `.webp`
