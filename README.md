@@ -29,7 +29,7 @@ learn Nim as a practical language, prologue web framework, multi-stage docker bu
 
 ## Recent Learning
 
-- Sep 2024. [Ulimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/)
+- Sep 2024. [Ulimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/). The code repo with my [exercise solutions](https://github.com/btbytes/ultimate_rust_crash_course).
 - Sep 2024. I also learnt Next.js fundamentals while doing a take-home exercise for a job interview.
 
 ## Recent Hacks
