@@ -11,8 +11,10 @@ This is the perfect place to talk about programming and stuff ;)
 - Languages I wish I could be programming: Common Lisp, APL, and FORTH
 - My most recent professional experience is in leading and writing code on development teams in the cybersecurity engineering domain while solving for large scale data gathering, processing and producing data products
 
-## Recent Projects
+## Recent hacks etc.,
 
+- Aug 2025; [Slugify Boop Script](https://github.com/btbytes/BoopScripts/blob/master/Slugify.js) - handy [Boop](https://boop.okat.best/) script that I needed to convert web page titles into friendly URLs when saving them as PDF.
+- Aug 2025; [Die Monospace Web](https://github.com/btbytes/die-monospace-web), further experiments with monospace design for the web.
 - July 2025;  [one-shot code generation using Gemini CLI](https://github.com/btbytes/server-side-rss-reader) - "Server Side RSS Reader"
 - Aug 2024; [Simplestatapp](//github.com/btbytes/simplestatapp), a demonstrative example of how to build a *tiny* (by modern standards),
 a standalone web application that has database support etc for under 6MB, and can be deployed
