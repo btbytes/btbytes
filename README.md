@@ -9,7 +9,7 @@ This is the perfect place to talk about programming and stuff ;)
 - I have done non-trivial amounts of programming in: Erlang, Rust, D, C, C++, Lua
 - I want to get good in: OCaml (or F#), Nix, and Go
 - Languages I wish I could be programming: Common Lisp, APL, and FORTH
-- My most recent professional experience is in leading and writing code on development teams in the cybersecurity engineering domain while solving for large scale data gathering, processing and producing data products
+
 
 ## Recent hacks etc.,
 
@@ -30,6 +30,18 @@ learn Nim as a practical language, prologue web framework, multi-stage docker bu
 - Sep 2024. [Ulimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/). The code repo with my [exercise solutions](https://github.com/btbytes/ultimate_rust_crash_course).
 - Sep 2024. I also learnt Next.js fundamentals while doing a take-home exercise for a job interview.
 
+- I'm practicing "leetcode" programming
+- Learning generative AI and large language models
+- Reviewing and revising Distributed Computing, and stream processing concepts
+- How to use self-hosted/local Generative AI for local development
+- Enjoying nim programming
+
+
+## Writing
+
+- I maintain a blog and a digital garden at <https://www.btbytes.com/>
+
+
 ## Links related to programming
 
 1. [List of talks I have given](https://www.btbytes.com/talks.html)
@@ -49,24 +61,11 @@ I have a Masters in Computer Science from [Purdue University](https://www.purdue
 
 ## Work Experience
 
-I have worked in the recent past for: Ollyver (startup I bootstrapped), Microsoft and Proofpoint.
+I currently work at [MISO](https://misoenergy.org) as a AI and ML Engineer on the Grid R&D Team building Generative AI related solutions.
+
+I have worked in the recent past for: Ollyver (startup I bootstrapped), Microsoft and Proofpoint. My past decade's work is in leading and writing code on development teams in the cybersecurity engineering domain while solving for large scale data gathering, processing and producing data products.
+
 
 ## Location
 
 My home town is Bengaluru, India. I live in Carmel, IN - a suburb of Indianapolis, IN in the USA.
-
-## Learning
-
-(Aug 2024)
-
-- I'm practicing "leetcode" programming
-- Learning generative AI and large language models
-- Reviewing and revising Distributed Computing, and stream processing concepts
-- How to use self-hosted/local Generative AI for local development
-- Enjoying nim programming
-
-## Writing
-
-(Aug 2024)
-
-- I blog at <https://www.btbytes.com/>
