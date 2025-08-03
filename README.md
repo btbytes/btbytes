@@ -11,6 +11,11 @@ This is the perfect place to talk about programming and stuff ;)
 - Languages I wish I could be programming: Common Lisp, APL, and FORTH
 
 
+## Contact
+
+You can get in touch with me: ✉️ pradeep🌀btbytes.com or [LinkedIn](https://linkedin.com/in/btbytes)
+
+
 ## Recent hacks etc.,
 
 - Aug 2025; [Slugify Boop Script](https://github.com/btbytes/BoopScripts/blob/master/Slugify.js) - handy [Boop](https://boop.okat.best/) script that I needed to convert web page titles into friendly URLs when saving them as PDF.
@@ -25,7 +30,7 @@ learn Nim as a practical language, prologue web framework, multi-stage docker bu
 - Apr 2024; [Pandaku](https://github.com/btbytes/pandaku), a [fly.io](https://fly.io) deployment of [pandoc](https://pandoc.org) API. Has Docker, Fly configs, and example code on how to use the API
 
 
-## Recent Learning
+## Recent learning
 
 - Sep 2024. [Ulimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/). The code repo with my [exercise solutions](https://github.com/btbytes/ultimate_rust_crash_course).
 - Sep 2024. I also learnt Next.js fundamentals while doing a take-home exercise for a job interview.
@@ -50,16 +55,11 @@ learn Nim as a practical language, prologue web framework, multi-stage docker bu
 1. [Old projects](https://v1.pradeepgowda.com/projects/) - likely all of them of archive-worthy
 
 
-
-## Contact
-
-You can get in touch with me: ✉️ pradeep🌀btbytes.com, [Twitter/X](https://x.com/btbytes) or [LinkedIn](https://linkedin.com/in/btbytes).
-
 ## Education
 
 I have a Masters in Computer Science from [Purdue University](https://www.purdue.edu) and Bachelors in Mechanical Engineering from [PESIT](https://pes.edu).
 
-## Work Experience
+## Work experience
 
 I currently work at [MISO](https://misoenergy.org) as a AI and ML Engineer on the Grid R&D Team building Generative AI related solutions.
 
@@ -68,4 +68,4 @@ I have worked in the recent past for: Ollyver (startup I bootstrapped), Microsof
 
 ## Location
 
-My home town is Bengaluru, India. I live in Carmel, IN - a suburb of Indianapolis, IN in the USA.
+I live in Carmel, IN - a suburb of Indianapolis, IN in the USA. My home town is Bengaluru, India.
