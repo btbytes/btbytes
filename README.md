@@ -15,6 +15,7 @@ This is the perfect place to talk about programming and stuff ;)
 
 - Aug 2025; [Slugify Boop Script](https://github.com/btbytes/BoopScripts/blob/master/Slugify.js) - handy [Boop](https://boop.okat.best/) script that I needed to convert web page titles into friendly URLs when saving them as PDF.
 - Aug 2025; [Die Monospace Web](https://github.com/btbytes/die-monospace-web), further experiments with monospace design for the web.
+- Aug 2024. I used Claude 3.5 Sonnet to write a MacOS Automator script to convert `.png/.jpg` etc to a smaller sized, web optimized `.webp` format. I'm really thrilled that I was able to go from having to use command line, (and context switching) to something I can do in the Finder. In this case, Claude was acting [as my tutor](https://www.btbytes.com/posts/use-of-llms-for-programming.html), and I learnt something new. You can [see my thread on X](https://x.com/btbytes/status/1821729486913626476) on how it all went down; and the resulting MacOS workflow [is here on github](https://github.com/btbytes/Convert-To-WebP-Workflow).
 - July 2025;  [one-shot code generation using Gemini CLI](https://github.com/btbytes/server-side-rss-reader) - "Server Side RSS Reader"
 - Aug 2024; [Simplestatapp](//github.com/btbytes/simplestatapp), a demonstrative example of how to build a *tiny* (by modern standards),
 a standalone web application that has database support etc for under 6MB, and can be deployed
@@ -28,13 +29,6 @@ learn Nim as a practical language, prologue web framework, multi-stage docker bu
 
 - Sep 2024. [Ulimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/). The code repo with my [exercise solutions](https://github.com/btbytes/ultimate_rust_crash_course).
 - Sep 2024. I also learnt Next.js fundamentals while doing a take-home exercise for a job interview.
-
-## Recent Hacks
-
-- Aug 2024. I used Claude 3.5 Sonnet to write a MacOS Automator script to convert `.png/.jpg` etc to a smaller sized, web optimized `.webp`
-format. I'm really thrilled that I was able to go from having to use command line, (and context switching)
-to something I can do in the Finder. In this case, Claude was acting [as my tutor](https://www.btbytes.com/posts/use-of-llms-for-programming.html), and I learnt something new.
-You can [see my thread on X](https://x.com/btbytes/status/1821729486913626476) on how it all went down; and the resulting MacOS workflow [is here on github](https://github.com/btbytes/Convert-To-WebP-Workflow).
 
 ## Links related to programming
 
