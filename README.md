@@ -18,6 +18,7 @@ You can get in touch with me: ✉️ pradeep🌀btbytes.com or [LinkedIn](https:
 
 ## Recent hacks etc.,
 
+- Aug 2025; [natty.css](https://github.com/btbytes/natty.css) - all the css gains, all natty! 14 lines of all natural, nothing extra css for better looking personal superintelligence. iykyk.
 - Aug 2025; [Slugify Boop Script](https://github.com/btbytes/BoopScripts/blob/master/Slugify.js) - handy [Boop](https://boop.okat.best/) script that I needed to convert web page titles into friendly URLs when saving them as PDF.
 - Aug 2025; [Die Monospace Web](https://github.com/btbytes/die-monospace-web), further experiments with monospace design for the web.
 - Aug 2024. I used Claude 3.5 Sonnet to write a MacOS Automator script to convert `.png/.jpg` etc to a smaller sized, web optimized `.webp` format. I'm really thrilled that I was able to go from having to use command line, (and context switching) to something I can do in the Finder. In this case, Claude was acting [as my tutor](https://www.btbytes.com/posts/use-of-llms-for-programming.html), and I learnt something new. You can [see my thread on X](https://x.com/btbytes/status/1821729486913626476) on how it all went down; and the resulting MacOS workflow [is here on github](https://github.com/btbytes/Convert-To-WebP-Workflow).
