@@ -18,7 +18,8 @@ You can get in touch with me: ✉️ pradeep🌀btbytes.com or [LinkedIn](https:
 
 ## Recent hacks etc.,
 
-- Mar 2026; [sharehtml](https://github.com/btbytes/sharehtml) - notes on how i deployed [sharehtml](https://github.com/jonesphillip/sharehtml) - a cloudflare app to quickly share HTML files for "collaboration" with a simple `sharehtml deploy/share` command. 
+- Mar 2026; [sharehtml](https://github.com/btbytes/sharehtml) - notes on how i deployed [sharehtml](https://github.com/jonesphillip/sharehtml) - a cloudflare app to quickly share HTML files for "collaboration" with a simple `sharehtml deploy/share` command.
+- Mar 2026; Edited [gpuer](https://github.com/btbytes/gpuer) and [bandwidther](https://github.com/btbytes/bandwidther) with the help of [OpenCode + MiniMax 2.5](https://opencode.ai), to get a friendly introduction to SwiftUI apps on MacOS.
 - Aug 2025; [natty.css](https://github.com/btbytes/natty.css) - all the css gains, all natty! 14 lines of all natural, nothing extra css for better looking personal superintelligence. iykyk.
 - Aug 2025; [Slugify Boop Script](https://github.com/btbytes/BoopScripts/blob/master/Slugify.js) - handy [Boop](https://boop.okat.best/) script that I needed to convert web page titles into friendly URLs when saving them as PDF.
 - Aug 2025; [Die Monospace Web](https://github.com/btbytes/die-monospace-web), further experiments with monospace design for the web.
