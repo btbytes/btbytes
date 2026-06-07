@@ -64,12 +64,11 @@ learn Nim as a practical language, prologue web framework, multi-stage docker bu
 
 I have a Masters in Computer Science from [Purdue University](https://www.purdue.edu) and Bachelors in Mechanical Engineering from [PESIT](https://pes.edu).
 
-## Work experience
+## Work
 
-I currently work at [MISO](https://misoenergy.org) as a AI and ML Engineer on the Grid R&D Team building Generative AI related solutions.
+I currently work at [Stellar AI](https://getstellar.ai) as VP of Engineering and AI.
 
-I have worked in the recent past for: Ollyver (startup I bootstrapped), Microsoft and Proofpoint. My past decade's work is in leading and writing code on development teams in the cybersecurity engineering domain while solving for large scale data gathering, processing and producing data products.
-
+I have worked in the recent past for:  [MISO](https://misoenergy.org) Ollyver (startup I bootstrapped), Microsoft (via RiskIQ acquisition) and [Proofpoint](https://www.proofpoint.com/us) (via Emerging Threats acquisition).
 
 ## Location
 
