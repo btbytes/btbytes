@@ -18,6 +18,7 @@ You can get in touch with me: ✉️ pradeep🌀btbytes.com or [LinkedIn](https:
 
 ## Recent hacks etc.,
 
+- Sep 2026; Used Claude to automatically [Optimize WiFi gateway and router](https://files.btbytes.com/hacks/Wifi_Optimization.html)
 - Sep 2026; Added a MacOS client to the [tohray](//github.com/btbytes/tohray) app -- [TohrayClient](https://github.com/btbytes/tohray/tree/main/TohrayClient); written in Swift.
 - May 2026; Using [DwarfStar4](https://github.com/antirez/ds4) running locally on a MacBookPro (M5 Max 128G) to analyze it's own source code and generate a [report](https://pradeep-stellar.github.io/ds4).
 - May 2026; [Using HTML as first class authoring environment](https://karma-cottage-d6ek.here.now/deck/deck.html#1), a riff on [The Unreasonable Effectiveness of HTML](https://x.com/trq212/status/2052809885763747935).
