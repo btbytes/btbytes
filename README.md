@@ -18,6 +18,8 @@ You can get in touch with me: ✉️ pradeep🌀btbytes.com or [LinkedIn](https:
 
 ## Recent hacks etc.,
 
+- Oct 2026; Created a library of [Prof SKR](https://profskr.com)'s books <https://files.btbytes.com/profskr/>; has complete catalogue, books can be read online; has thumbnails.
+- Oct 2026; Created [skills](https://github.com/btbytes/skills), the very first being [upcloud](https://files.btbytes.com/upcloud/).
 - Sep 2026; Used Claude to automatically [Optimize WiFi gateway and router](https://files.btbytes.com/hacks/Wifi_Optimization.html)
 - Sep 2026; Added a MacOS client to the [tohray](//github.com/btbytes/tohray) app -- [TohrayClient](https://github.com/btbytes/tohray/tree/main/TohrayClient); written in Swift.
 - May 2026; Using [DwarfStar4](https://github.com/antirez/ds4) running locally on a MacBookPro (M5 Max 128G) to analyze it's own source code and generate a [report](https://pradeep-stellar.github.io/ds4).
