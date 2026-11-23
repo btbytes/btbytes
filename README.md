@@ -18,6 +18,7 @@ You can get in touch with me: ✉️ pradeep🌀btbytes.com or [LinkedIn](https:
 
 ## Recent hacks etc.,
 
+- Nov 2026; [Kaage](https://www.kaage.dev) -- kaage is a late-90s workstation-inspired webtop built on NixOS and served by a Rust daemon. Perch over your GPU rig, homelab, cloud computer, or Raspberry Pi from a laptop or phone over Tailscale—with sliding yellow title tabs, 3D beveled chrome, stack-and-tile windows, zero SSH gymnastics, and zero JavaScript.
 - Oct 2026; Created a library of [Prof SKR](https://profskr.com)'s books <https://files.btbytes.com/profskr/>; has complete catalogue, books can be read online; has thumbnails.
 - Oct 2026; Created [skills](https://github.com/btbytes/skills), the very first being [upcloud](https://files.btbytes.com/upcloud/).
 - Sep 2026; Used Claude to automatically [Optimize WiFi gateway and router](https://files.btbytes.com/hacks/Wifi_Optimization.html)
